@@ -1,5 +1,5 @@
-_site
-posts
-posters
+_site/
+_layouts/
+posts/
 Gemfile.lock
 initial_template.md
